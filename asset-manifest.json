@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "https://davitro.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://davitro.github.io/task-management-frontend/static/js/main.3179ab33.chunk.js",
-    "main.js.map": "https://davitro.github.io/task-management-frontend/static/js/main.3179ab33.chunk.js.map",
-    "runtime~main.js": "https://davitro.github.io/task-management-frontend/static/js/runtime~main.f9e7d76a.js",
-    "runtime~main.js.map": "https://davitro.github.io/task-management-frontend/static/js/runtime~main.f9e7d76a.js.map",
-    "static/js/2.2e61d798.chunk.js": "https://davitro.github.io/task-management-frontend/static/js/2.2e61d798.chunk.js",
-    "static/js/2.2e61d798.chunk.js.map": "https://davitro.github.io/task-management-frontend/static/js/2.2e61d798.chunk.js.map",
-    "index.html": "https://davitro.github.io/task-management-frontend/index.html",
-    "precache-manifest.770cfe06437faa5ad54b9a7c22393755.js": "https://davitro.github.io/task-management-frontend/precache-manifest.770cfe06437faa5ad54b9a7c22393755.js",
-    "service-worker.js": "https://davitro.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://davitro.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
-  }
+    "main.css": "https://davitaro.github.io/task-management-frontend/static/css/main.985582f7.css",
+    "main.js": "https://davitaro.github.io/task-management-frontend/static/js/main.f61790a4.js",
+    "index.html": "https://davitaro.github.io/task-management-frontend/index.html",
+    "main.985582f7.css.map": "https://davitaro.github.io/task-management-frontend/static/css/main.985582f7.css.map",
+    "main.f61790a4.js.map": "https://davitaro.github.io/task-management-frontend/static/js/main.f61790a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.f61790a4.js"
+  ]
 }
