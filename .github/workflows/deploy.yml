@@ -11,7 +11,9 @@ jobs:
 
       - name: NPM Cache
         uses: actions/setup-node@v2
-        with: node-version:'14'
+        with: 
+          node-version: 14
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm install
