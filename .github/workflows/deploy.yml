@@ -22,8 +22,8 @@ jobs:
         run: npm run build
         env:
           HTTPS: "true"
-          REACT_APP_BASE_URL: ${{ secrets.REACT_APP_BASE_URL }}
-          PUBLIC_URL: ${{ secrets.PUBLIC_URL }}
+          REACT_APP_BASE_URL: "https://task-management-davita.herokuapp.com"
+          PUBLIC_URL: "https://davitaro.github.io/task-management-frontend"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
