@@ -11,6 +11,7 @@ import {
 } from "@material-ui/core";
 import styled from "styled-components";
 import { inject } from "mobx-react";
+import { DeleteOutline } from "@material-ui/icons";
 
 const CardContainer = styled.div`
   margin-bottom: 20px;
