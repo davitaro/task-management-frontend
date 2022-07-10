@@ -9,7 +9,6 @@ import {
   FormControl,
   Grid,
 } from "@material-ui/core";
-import { DeleteOutline } from "@material-ui/icons/Delete";
 import styled from "styled-components";
 import { inject } from "mobx-react";
 
